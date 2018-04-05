@@ -1,0 +1,743 @@
+# depslib dependency file v1.0
+1506602089 source:c:\users\kyobi\documents\prog\rubik's cube\camera.cpp
+	"Camera.h"
+
+1501677929 c:\users\kyobi\documents\prog\rubik's cube\camera.h
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<GL/glew.h>
+	<GL3/gl3.h>
+	"Input.h"
+
+1502364845 c:\users\kyobi\documents\prog\rubik's cube\input.h
+	<SDL2/SDL.h>
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\close_code.h
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\kyobi\documents\sdl\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1502364845 source:c:\users\kyobi\documents\prog\rubik's cube\input.cpp
+	"Input.h"
+
+1502285456 source:c:\users\kyobi\documents\prog\rubik's cube\main.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	"SceneOpenGl.h"
+	<GL/glew.h>
+	<GL3/gl3.h>
+
+1501447590 c:\users\kyobi\documents\prog\rubik's cube\sceneopengl.h
+	<SDL2/SDL.h>
+	<iostream>
+	<string>
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<GL/glew.h>
+	<GL3/gl3.h>
+	"Input.h"
+
+1507477004 source:c:\users\kyobi\documents\prog\rubik's cube\cube.cpp
+	<cstring>
+	"Cube.h"
+	"maths.h"
+
+1502375608 c:\users\kyobi\documents\prog\rubik's cube\cube.h
+	<SDL2/SDL.h>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<GL/glew.h>
+	<GL3/gl3.h>
+	"Shader.h"
+
+1501853881 c:\users\kyobi\documents\prog\rubik's cube\shader.h
+	<GL/glew.h>
+	<OpenGL/gl3.h>
+	<GL3/gl3.h>
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<iostream>
+	<string>
+	<fstream>
+
+1507477840 source:c:\users\kyobi\documents\prog\rubik's cube\sceneopengl.cpp
+	"SceneOpenGl.h"
+	"Cube.h"
+	"Camera.h"
+	"Shader.h"
+	"RubiksCube.h"
+
+1502034205 source:c:\users\kyobi\documents\prog\rubik's cube\shader.cpp
+	"Shader.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1469321978 c:\users\kyobi\documents\sdl\sdl2-2.0.5\x86_64-w64-mingw32\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1507487684 source:c:\users\kyobi\documents\prog\rubik's cube\rubikscube.cpp
+	"RubiksCube.h"
+	"maths.h"
+
+1507544975 c:\users\kyobi\documents\prog\rubik's cube\rubikscube.h
+	"Cube.h"
+	<SDL2/SDL.h>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<GL/glew.h>
+	<GL3/gl3.h>
+
+1507476972 c:\users\kyobi\documents\prog\rubik's cube\maths.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1507487621 source:c:\users\kyobi\documents\prog\rubik's cube\maths.cpp
+	"maths.h"
+	<iostream>
+
